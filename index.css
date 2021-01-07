@@ -1,5 +1,5 @@
 body {
-    background-color: darkslategrey;
+    background-color: #9E0078;
 }
 
 h1 {
@@ -8,4 +8,9 @@ text-align: center;
 
 p.desc {
 text-align: center;
+background-color: 319C19;
+}
+
+footer{
+    background-color: grey;
 }
